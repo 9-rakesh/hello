@@ -1,7 +1,6 @@
 From: rakesh nagaral <rakeshnagaral2018@gmail.com>
 Date: 11 feb 2024
 Subject: [PATCH] task2.patch
-
 ---
  node_modules.zip | Bin 0 -> 109310732 bytes
  src/App.tsx      |  27 +++++++++++++++++++++------
